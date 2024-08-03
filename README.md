@@ -21,10 +21,13 @@
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=Brandaumm&show_icons=true&theme=transparent&border_color=DC143C&title_color=DC143C&border_radius=10&text_color=DC143C&icon_color=DC143C" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brandaumm&layout=compact&langs_count=8&card_width=320&theme=transparent&hide=css,html,pug&border_color=DC143C&text_color=DC143C&title_color=DC143C" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brandaumm&layout=compact&langs_count=8&card_width=320&theme=transparent&hide=css,html&border_color=DC143C&text_color=DC143C&title_color=DC143C" />
   </a>
 </p>
 
-> ## Contact me
->![Gmail](https://img.shields.io/badge/Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white)![Whats](https://img.shields.io/badge/WhatsApp-DC143C?style=for-the-badge&logo=whatsapp&logoColor=white)
->![Linkedin](https://img.shields.io/badge/LinkedIn-DC143C?style=for-the-badge&logo=linkedin&logoColor=white)![Instagram](https://img.shields.io/badge/Instagram-DC143C?style=for-the-badge&logo=instagram&logoColor=white)
+## Contact me
+[![Gmail](https://img.shields.io/badge/Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathan.victor.brandao@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-DC143C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84988180266)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DC143C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-brandão-19968a28b/)
+[![Instagram](https://img.shields.io/badge/Instagram-DC143C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_nathan_brandao_/)
+
