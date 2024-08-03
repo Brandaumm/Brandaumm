@@ -27,7 +27,7 @@
 
 ## Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathan.victor.brandao@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-DC143C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84988180266)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-DC143C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8488180266)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DC143C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-brandão-19968a28b/)
 [![Instagram](https://img.shields.io/badge/Instagram-DC143C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_nathan_brandao_/)
 
