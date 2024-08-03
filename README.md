@@ -14,9 +14,11 @@
 >![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Brandaumm&show_icons=true&theme=transparent&border_color=DC143C&title_color=DC143C&border_radius=10&text_color=DC143C&icon_color=DC143C" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brandaumm&layout=compact&langs_count=8&card_width=320&theme=transparent&border_color=DC143C&text_color=DC143C&title_color=DC143C" />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Brandaumm&show_icons=true&theme=transparent&border_color=DC143C&title_color=DC143C&border_radius=10&text_color=DC143C&icon_color=DC143C" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brandaumm&layout=compact&langs_count=8&card_width=320&theme=transparent&border_color=DC143C&text_color=DC143C&title_color=DC143C" />
+  </a>
+</p>
