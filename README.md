@@ -12,12 +12,12 @@
 > ## 🔧 Technologies
 >![Spring](https://img.shields.io/badge/Spring-1C1C1C?style=for-the-badge&logo=spring&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-1C1C1C?style=for-the-badge&logo=Jest&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-1C1C1C?style=for-the-badge&logo=flutter&logoColor=white)
 >
 >## 🗄️ Data Bases
 >![Mysql](https://img.shields.io/badge/MySQL-1C1C1C?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-1C1C1C?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDb](https://img.shields.io/badge/MongoDB-1C1C1C?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
