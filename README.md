@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-1C1C1C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-1C1C1C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-1C1C1C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-1C1C1C?style=for-the-badge&logo=dart&logoColor=white)
 >
 > ## 🔧 Technologies
 >![Spring](https://img.shields.io/badge/Spring-1C1C1C?style=for-the-badge&logo=spring&logoColor=white)
