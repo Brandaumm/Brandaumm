@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/Python-1C1C1C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-1C1C1C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-1C1C1C?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-1C1C1C?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C%](https://img.shields.io/badge/C%23-1C1C1C?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![R](https://img.shields.io/badge/R-1C1C1C?style=for-the-badge&logo=R&logoColor=white)
 >
 > ## 🔧 Frameworks
