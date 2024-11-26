@@ -8,18 +8,20 @@
 ![Python](https://img.shields.io/badge/Python-1C1C1C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-1C1C1C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-1C1C1C?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-1C1C1C?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1C1C1C?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-1C1C1C?style=for-the-badge&logo=c-sharp&logoColor=white)
 >
-> ## 🔧 Technologies
+> ## 🔧 Frameworks
 >![Spring](https://img.shields.io/badge/Spring-1C1C1C?style=for-the-badge&logo=spring&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-1C1C1C?style=for-the-badge&logo=Jest&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-1C1C1C?style=for-the-badge&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-1C1C1C?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1C1C1C?style=for-the-badge&logo=bootstrap&logoColor=white)
 >
 >## 🗄️ Data Bases
 >![Mysql](https://img.shields.io/badge/MySQL-1C1C1C?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-1C1C1C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDB-1C1C1C?style=for-the-badge&logo=mongodb&logoColor=white)
+>![SQLite](https://img.shields.io/badge/SQLite-1C1C1C?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
